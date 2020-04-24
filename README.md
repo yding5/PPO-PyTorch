@@ -1,3 +1,8 @@
+# Modified to train the agent in the pymunk game
+Run `train.py`.
+Customized environment and game defined in `env.py` and `game.py`.
+Prediction model defined in `model.py`.
+
 # PPO-PyTorch
 Minimal PyTorch implementation of Proximal Policy Optimization with clipped objective for OpenAI gym environments.
 
